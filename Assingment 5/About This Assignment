@@ -1,0 +1,6 @@
+This assignment was to practice using JavaFX. Using scene builder and eclipse I created a paint app. 
+
+It allows the user to draw objects in 4 colors (red, green, black, blue) in 3 sizes (small, medium, large) using a 
+  circular or square brush
+  
+There is also a serialize button which allows the user to save the drawing made by the circular brush, using XML serialization
