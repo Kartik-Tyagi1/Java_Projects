@@ -1,0 +1,8 @@
+This assignment was used to practice the concept of inheritance in Java. The screen class holds the main variables and 
+  some abstract methods
+  
+ The other classes besides inventory, extend screen class
+ 
+ The inventory stores the screen objects into an array list and has function to display and count objects
+ 
+ Main is the test program
